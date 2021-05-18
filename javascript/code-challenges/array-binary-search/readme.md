@@ -15,8 +15,7 @@ I used while to loop over the array and check from the left and right of the arr
 
 then i returned the index of the value. If the value is not found i returned -1
 
-I used O(log(n)) notation because I'm using for loop here, and it is a liner time so
-O(log(n) will perform better in speed and time.
+I used O(log(n)) notation because it will perform better in speed and time.
 
 ## Solution
 
