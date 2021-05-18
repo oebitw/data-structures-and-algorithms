@@ -21,4 +21,5 @@ Challenge Num | Challenge title | Challenge link
 ------------ | ------------- | --------------
 01|  Array Reverse| [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/code-challenges/array-reverse)
 02 | Array Shift | [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/code-challenges/array-shift)
+03 | array-binary-search | [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/code-challenges/array-binary-search)
 
