@@ -17,6 +17,7 @@ then i returned the index of the value. If the value is not found i returned -1
 
 I used O(log(n)) notation because it will perform better in speed and time.
 
+
 ## Solution
 
 ![](./img/binary1.jpg)
