@@ -23,3 +23,13 @@ Challenge Num | Challenge title | Challenge link
 02 | Array Shift | [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/code-challenges/array-shift)
 03 | array-binary-search | [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/code-challenges/array-binary-search)
 
+---
+
+### 401 Data Structure
+
+
+Data Structure Num | Data Structure title | Data Structure link
+------------ | ------------- | --------------
+01| Linked List| [Click here](https://github.com/oebitw/data-structures-and-algorithms/pull/18)
+
+
