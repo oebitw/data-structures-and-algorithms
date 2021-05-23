@@ -30,6 +30,6 @@ Challenge Num | Challenge title | Challenge link
 
 Data Structure Num | Data Structure title | Data Structure link
 ------------ | ------------- | --------------
-01| Linked List| [Click here](https://github.com/oebitw/data-structures-and-algorithms/pull/18)
+01| Linked List| [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/Data-Structures/linked-list)
 
 
