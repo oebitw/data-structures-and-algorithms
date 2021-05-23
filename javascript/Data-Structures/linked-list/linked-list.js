@@ -28,7 +28,7 @@ class LinkedList {
     try {
 
       if(!value){
-        throw new Error('Please enter a value')
+        throw new Error('Please enter a value');
       }
 
       let current = this.head;
@@ -62,6 +62,58 @@ class LinkedList {
       console.log(`Error: toString method`, error);
     }
   }
+
+
+  append(value) {
+    var newNode = new Node(value);
+    this.length++;
+    if(!this.head){
+      this.head = newNode;
+    } else {
+      let lastNode = this.head;
+      while(lastNode.next) {
+        lastNode = lastNode.next;
+      }
+      lastNode.next = newNode;
+    }
+    return this;
+  }
+
+  insertAfter(value, newVal) {
+    let node = new Node(newVal);
+    let current = this.head;
+    while(current) {
+      if(current.value === value) {
+        this.length++;
+        let temp = current.next;
+        current.next = node;
+        node.next = temp;
+        return;
+      }
+      current = current.next;
+    }
+    return 'exception';
+  }
+
+  insertBefore(value, newVal) {
+    let node = new Node(newVal);
+    let current = this.head;
+    while(current && current.next !== null) {
+      if(current.next.value === value) {
+        this.length++;
+        let temp = current.next;
+        current.next = node;
+        node.next = temp;
+        return;
+      }
+      current = current.next;
+    }
+    return 'exception';
+  }
+
+
+
+
 }
 
 
