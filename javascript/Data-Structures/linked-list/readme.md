@@ -24,6 +24,12 @@ If the list is empty the head value will be NULL.
 * `toString` method: space O(n) and time O(n) : takes in no arguments and returns a string representing all the values in the Linked List, formatted as:
 `"{ a } -> { b } -> { c } -> NULL"`
 
+* `append` method : which adds a new node with the given value to the end of the list.
+
+* `insertBefore`: which add a new node with the given newValue immediately before the first value node
+
+* `.insertAfter`: which add a new node with the given newValue immediately after the first value node
+
 ## Testing
 
 1) Can successfully instantiate an empty linked list.
@@ -34,13 +40,25 @@ If the list is empty the head value will be NULL.
 
 4) Can properly insert multiple nodes into the linked list.
 
-5)Will return true when finding a value within the linked list that exists.
+5) Will return true when finding a value within the linked list that exists.
 
 6) Will return false when searching for a value in the linked list that does not exist.
 
 7) Can properly return a collection of all the values that exist in the linked list.
 
-![](img/test.JPG)
+8) Can successfully add a node to the end of the linked list.
+
+9) Can successfully add multiple nodes to the end of a linked list.
+
+10) Can successfully insert a node before a node located i the middle of a linked list.
+
+11) Can successfully insert a node before the first node of a linked list.
+
+12) Can successfully insert after a node in the middle of the linked list.
+
+13) Can successfully insert a node after the last node of the linked list.
+
+![](./img/test-ll.JPG)
 
 
 ## Solution
@@ -49,9 +67,9 @@ If the list is empty the head value will be NULL.
 ![](./img/ll3.jpg)
 ![](./img/ll4.jpg)
 ![](./img/ll5.jpg)
-
-
-
-
+![](./img/ll6.jpg)
+![](./img/ll7.jpg)
+![](./img/ll8.jpg)
+![](./img/ll9.jpg)
 
 
