@@ -24,11 +24,12 @@ If the list is empty the head value will be NULL.
 * `toString` method: space O(n) and time O(n) : takes in no arguments and returns a string representing all the values in the Linked List, formatted as:
 `"{ a } -> { b } -> { c } -> NULL"`
 
+
 * `append` method : which adds a new node with the given value to the end of the list.
 
-* `insertBefore`: which add a new node with the given newValue immediately before the first value node
+* `insertBefore`: which add a new node with the given newValue immediately before the first value node.
 
-* `.insertAfter`: which add a new node with the given newValue immediately after the first value node
+* `.insertAfter`: which add a new node with the given newValue immediately after the first value node.
 
 ## Testing
 
