@@ -27,11 +27,14 @@ If the list is empty the head value will be NULL.
 
 * `append` method : which adds a new node with the given value to the end of the list.
 
-* `insertBefore`: which add a new node with the given newValue immediately before the first value node.
+* `insertBefore` method: which add a new node with the given newValue immediately before the first value node.
 
-* `.insertAfter`: which add a new node with the given newValue immediately after the first value node.
+* `.insertAfter` method: which add a new node with the given newValue immediately after the first value node.
 
+* ` kthFromEnd` method:  which takes a number (k) as parameter and return the node’s value that is k from the end of the linked list.
 ## Testing
+
+**For `insert`, `include` and `toString` methods the following tests should pass and work properly**:
 
 1) Can successfully instantiate an empty linked list.
 
@@ -44,6 +47,8 @@ If the list is empty the head value will be NULL.
 5) Will return true when finding a value within the linked list that exists.
 
 6) Will return false when searching for a value in the linked list that does not exist.
+
+**For `append`, `insertBefore` and `insertAfter` methods the following tests should pass and work properly**:
 
 7) Can properly return a collection of all the values that exist in the linked list.
 
@@ -59,18 +64,40 @@ If the list is empty the head value will be NULL.
 
 13) Can successfully insert a node after the last node of the linked list.
 
-![](./img/test-ll.JPG)
+**For `kthFromEnd` method the following tests should pass and work properly**:
+
+14) Return Exception when k is greater than the length of the linked list.
+
+15) Return the head value when k and the length of the list are the same.
+
+16) Return Exception when k is not a positive integer.
+
+17) Return a value when the linked list is of a size 1.
+
+18) “Happy Path” Return a value when k is not at the end, but somewhere in the middle of the linked list.
+
+
+![](./img/LL-test.JPG)
 
 
 ## Solution
+
+### `insert`, `include` and `toString` Whiteboard
 ![](./img/ll1.jpg)
 ![](./img/ll2.jpg)
 ![](./img/ll3.jpg)
 ![](./img/ll4.jpg)
 ![](./img/ll5.jpg)
+
+### `append`, `insertBefore` and `insertAfter`
 ![](./img/ll6.jpg)
 ![](./img/ll7.jpg)
 ![](./img/ll8.jpg)
 ![](./img/ll9.jpg)
+![](./img/ll8.jpg)
+![](./img/ll9.jpg)
 
+### `kthFromEnd` WhiteBoard
+![](./img/ll10.jpg)
+![](./img/ll11.jpg)
 
