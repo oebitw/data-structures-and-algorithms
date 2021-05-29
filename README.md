@@ -24,6 +24,7 @@ Challenge Num | Challenge title | Challenge link
 03 | Array Binary Search | [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/code-challenges/array-binary-search)
 04 | LL-ZIP | [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/code-challenges/ll-zip)
 
+
 ---
 
 ### 401 Data Structure
@@ -32,5 +33,6 @@ Challenge Num | Challenge title | Challenge link
 Data Structure Num | Data Structure title | Data Structure link
 ------------ | ------------- | --------------
 01| Linked List| [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/Data-Structures/linked-list)
+02 | stack-and-queue | [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/code-challenges/stack-and-queue)
 
 
