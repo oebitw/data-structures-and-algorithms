@@ -23,6 +23,7 @@ Challenge Num | Challenge title | Challenge link
 02 | Array Shift | [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/code-challenges/array-shift)
 03 | Array Binary Search | [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/code-challenges/array-binary-search)
 04 | LL-ZIP | [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/code-challenges/ll-zip)
+05 | Stacks and Queues | [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/code-challenges/queue-with-stacks)
 
 
 ---
