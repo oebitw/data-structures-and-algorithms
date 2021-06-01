@@ -25,7 +25,7 @@ Challenge Num | Challenge title | Challenge link
 04 | LL-ZIP | [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/code-challenges/ll-zip)
 05 | Stacks and Queues | [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/code-challenges/queue-with-stacks)
 06 | fifo-animal-shelter | [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/code-challenges/fifo-animal-shelter)
-
+7 | multi-bracket-validation | [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/code-challenges/multi-bracket-validation)
 
 
 ---
