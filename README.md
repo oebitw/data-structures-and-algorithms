@@ -25,7 +25,8 @@ Challenge Num | Challenge title | Challenge link
 04 | LL-ZIP | [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/code-challenges/ll-zip)
 05 | Stacks and Queues | [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/code-challenges/queue-with-stacks)
 06 | fifo-animal-shelter | [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/code-challenges/fifo-animal-shelter)
-7 | multi-bracket-validation | [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/code-challenges/multi-bracket-validation)
+07 | multi-bracket-validation | [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/code-challenges/multi-bracket-validation)
+08 | multi-bracket-validation | [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/code-challenges/multi-bracket-validation)
 
 
 ---
@@ -37,5 +38,6 @@ Data Structure Num | Data Structure title | Data Structure link
 ------------ | ------------- | --------------
 01| Linked List| [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/Data-Structures/linked-list)
 02 | stack-and-queue | [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/code-challenges/stack-and-queue)
+03 | Trees Data Structure | [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/Data-Structures/tree)
 
 
