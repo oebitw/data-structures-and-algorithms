@@ -26,7 +26,7 @@ Challenge Num | Challenge title | Challenge link
 05 | Stacks and Queues | [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/code-challenges/queue-with-stacks)
 06 | fifo-animal-shelter | [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/code-challenges/fifo-animal-shelter)
 07 | multi-bracket-validation | [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/code-challenges/multi-bracket-validation)
-08 | multi-bracket-validation | [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/code-challenges/multi-bracket-validation)
+08 | tree | [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/Data-Structures/tree)
 
 
 ---
