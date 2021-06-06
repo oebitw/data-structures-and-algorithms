@@ -129,7 +129,8 @@ Without utilizing any of the built-in methods available to your language, return
 
 7) Can successfully return exception when the user search for maximum value in empty tree
 
-8) Can successfully Return the maximum value in the tree
+8) Can successfully Return the maximum value in the tree.
+
 
 ## Solution
 
