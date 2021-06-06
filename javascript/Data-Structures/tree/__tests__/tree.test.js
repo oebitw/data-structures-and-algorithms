@@ -130,4 +130,26 @@ describe('Binary Search Tree', () => {
     expect(newTree.contains(1)).toBe('Empty Tree');
   });
 
+  it('Can successfully return exception when the user search for maximum value in empty tree', ()=>{
+    const newTree = new BinarySearchTree();
+    expect(newTree.findMaximumValue()).toBe('Tree is Empty');
+  });
+
+  it('Can successfully Return the maximum value in the tree', () => {
+    let tree = new BinarySearchTree();
+    tree.add(5);
+    tree.add(10);
+    tree.add(100);
+    tree.add(1000);
+    expect(tree.findMaximumValue()).toEqual(1000);
+
+  });
+
+
 });
+
+
+describe('Get Maximum Value', ()=>{
+
+});
+

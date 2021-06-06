@@ -84,6 +84,29 @@ class BinarySearchTree {
     }
     return false;
   }
+
+
+  findMaximumValue() {
+    if (!this.root){
+      return 'Tree is Empty';
+    }
+
+    let maximumValue = 0;
+
+    let getMax = (node) => {
+      if (node.value > maximumValue) {
+        maximumValue = node.value;
+      }
+      if (node.left) {
+        getMax(node.left);
+      }
+      if (node.right) {
+        getMax(node.right);
+      }
+    };
+    getMax(this.root);
+    return maximumValue;
+  }
 }
 
 module.exports = {

@@ -109,6 +109,10 @@ Adds the input value in its place in the sorted tree.
 Search the tree and checks if the input value exists.
 
 
+#### 3) `find-maximum-value`
+
+Without utilizing any of the built-in methods available to your language, return the maximum value stored in the tree. You can assume that the values stored in the Binary Tree will be numeric.
+
 ## Testing
 
 1) Can successfully instantiate an empty tree.
@@ -123,8 +127,13 @@ Search the tree and checks if the input value exists.
 
 6) Can successfully return a collection from a postorder traversal. 
 
+7) Can successfully return exception when the user search for maximum value in empty tree
+
+8) Can successfully Return the maximum value in the tree
 
 ## Solution
 
 ![](./img/whiteboard.jpg)
+![](./img/whiteboard2.jpg)
+
 
