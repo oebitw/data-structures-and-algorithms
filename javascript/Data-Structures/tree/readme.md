@@ -113,6 +113,11 @@ Search the tree and checks if the input value exists.
 
 Without utilizing any of the built-in methods available to your language, return the maximum value stored in the tree. You can assume that the values stored in the Binary Tree will be numeric.
 
+#### 4) `breadth`
+
+which takes a Binary Tree as its unique input. Without utilizing any of the built-in methods available to your language, traverse the input tree using a Breadth-first approach, and return a list of the values in the tree in the order they were encountered.
+
+
 ## Testing
 
 1) Can successfully instantiate an empty tree.
@@ -129,11 +134,17 @@ Without utilizing any of the built-in methods available to your language, return
 
 7) Can successfully return exception when the user search for maximum value in empty tree
 
-8) Can successfully Return the maximum value in the tree
+8) Can successfully Return the maximum value in the tree.
+
+9) Can successfully return a collection from a breadth traversal.
+
+10) Can successfully return exception if the tree is empty when invoking breadth method.
 
 ## Solution
 
 ![](./img/whiteboard.jpg)
 ![](./img/whiteboard2.jpg)
+![](./img/whiteboard3.jpg)
+
 
 
