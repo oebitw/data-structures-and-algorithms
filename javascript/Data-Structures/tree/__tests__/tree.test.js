@@ -84,6 +84,17 @@ describe('Binary Tree', () => {
     expect(postOrderResult).toEqual(expected);
   });
 
+  it('can successfully return a collection from a breadth traversal', () => {
+    expect(tree.breadth()).toStrictEqual([1, 2, 3, 6,4,5,7,8,9]);
+  });
+
+  it('can successfully return exception if the tree is empty when invoking breadth method', () => {
+    let newTree = new BinaryTree();
+    expect(newTree.breadth()).toBe('The Tree is Empty');
+  });
+
+
+
 });
 
 describe('Binary Search Tree', () => {
@@ -149,7 +160,5 @@ describe('Binary Search Tree', () => {
 });
 
 
-describe('Get Maximum Value', ()=>{
 
-});
 

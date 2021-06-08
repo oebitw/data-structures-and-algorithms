@@ -1,6 +1,45 @@
 'use strict';
 const Node = require('./node.js');
 
+class Node2 {
+  constructor(value) {
+    this.value = value;
+    this.next = null;
+  }
+}
+
+class Queue {
+  constructor() {
+    this.front = null;
+    this.rear = null;
+  }
+
+  enqueue(value) {
+    var newNode = new Node2(value);
+    if (this.isEmpty()) {
+      this.front = newNode;
+      this.rear = newNode;
+    } else {
+      this.rear.next = newNode;
+      this.rear = newNode;
+    }
+  }
+
+  dequeue() {
+    if (this.isEmpty()) return 'Empty!';
+    let temp = this.front;
+    this.front = temp.next;
+    temp.next = null;
+    return temp.value;
+  }
+
+  isEmpty() {
+    return this.front === null;
+  }
+}
+
+
+
 
 class BinaryTree {
   constructor(root = null) {
@@ -44,6 +83,33 @@ class BinaryTree {
     traverse(this.root);
     return result;
   }
+
+  breadth() {
+    let output = [];
+
+    let queue = new Queue();
+
+    if (this.root){
+      queue.enqueue(this.root);
+    }else{
+      return 'The Tree is Empty';
+    }
+
+    while (!queue.isEmpty()) {
+      let front = queue.dequeue();
+      output.push(front.value);
+      if(front.left){
+        queue.enqueue(front.left);
+      }
+      if(front.right){
+        queue.enqueue(front.right);
+      }
+    }
+
+    return output;
+  }
+
+
 }
 
 
@@ -113,3 +179,5 @@ module.exports = {
   BinaryTree,
   BinarySearchTree
 };
+
+
