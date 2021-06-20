@@ -27,7 +27,7 @@ Challenge Num | Challenge title | Challenge link
 06 | fifo-animal-shelter | [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/code-challenges/fifo-animal-shelter)
 07 | multi-bracket-validation | [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/code-challenges/multi-bracket-validation)
 08 | fizzbuzz-tree | [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/code-challenges/fizzbuzz-tree)
-
+09 | Insertion-sort | [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/code-challenges/insertion-sort)
 
 
 ---
