@@ -28,7 +28,7 @@ Challenge Num | Challenge title | Challenge link
 07 | multi-bracket-validation | [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/code-challenges/multi-bracket-validation)
 08 | fizzbuzz-tree | [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/code-challenges/fizzbuzz-tree)
 09 | Insertion-sort | [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/code-challenges/insertion-sort)
-
+10 | Merge-sort | [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/code-challenges/merge-sort)
 
 ---
 

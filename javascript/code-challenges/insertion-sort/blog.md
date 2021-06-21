@@ -31,6 +31,7 @@ Sample array: [8,4,23,42,16,15]
 
 4) This results in the smallest number of the array being placed first.
 
+![](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-26/solutions/assets/selectionSort1.png)
 
 ### Pass two:
 
@@ -38,6 +39,8 @@ Sample array: [8,4,23,42,16,15]
 2) `8` is the 2nd smallest number in the array, so it “swaps” with itself.
 
 3) The minimum value does not change at all during the iteration of this pass.
+
+![](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-26/solutions/assets/selectionSort2.png)
 
 ### Pass Three:
 
@@ -48,20 +51,29 @@ Sample array: [8,4,23,42,16,15]
 3) Each time a smaller number than the current minimum is found, the variable will update to the new smallest number.
 
 4) In this case, 15 is the next smallest number. As a result, it will swap with position 2.
+![](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-26/solutions/assets/selectionSort3.png)
 
 ### Phase four:
 
 through on the array proves that 16 is the next smallest number in the array, and as a result, switches places with the 42.
 
+![](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-26/solutions/assets/selectionSort4.png)
+
+
 ### Phase five:
 
 the array only has one other index to evaluate. Since the last index value is larger than index 4, the two values will swap.
+
+![](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-26/solutions/assets/selectionSort5.png)
 
 ### Phase six
 
 On its final iteratation through the array, it will swap places with itself as it evaluates the value against itself.
 
 After this iteration, i will increment to 6, forcing it to break out of the outer for loop and leaving our array now sorted.
+
+![](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-26/solutions/assets/selectionSortFinal.png)
+
 
 ## Efficiency
 
