@@ -29,7 +29,7 @@ Challenge Num | Challenge title | Challenge link
 08 | fizzbuzz-tree | [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/code-challenges/fizzbuzz-tree)
 09 | Insertion-sort | [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/code-challenges/insertion-sort)
 10 | Merge-sort | [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/code-challenges/merge-sort)
-
+10 | Quick Sort | [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/code-challenges/quick-sort)
 ---
 
 ### 401 Data Structure
