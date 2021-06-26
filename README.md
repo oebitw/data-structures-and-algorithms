@@ -29,7 +29,7 @@ Challenge Num | Challenge title | Challenge link
 08 | fizzbuzz-tree | [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/code-challenges/fizzbuzz-tree)
 09 | Insertion-sort | [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/code-challenges/insertion-sort)
 10 | Merge-sort | [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/code-challenges/merge-sort)
-10 | Quick Sort | [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/code-challenges/quick-sort)
+11 | Quick Sort | [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/code-challenges/quick-sort)
 ---
 
 ### 401 Data Structure
@@ -40,5 +40,6 @@ Data Structure Num | Data Structure title | Data Structure link
 01| Linked List| [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/Data-Structures/linked-list)
 02 | stack-and-queue | [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/code-challenges/stack-and-queue)
 03 | Tree Data Structure | [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/Data-Structures/tree)
+04 | Hashtable | [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/Data-Structures/hashtable)
 
 
