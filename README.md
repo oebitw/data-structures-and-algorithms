@@ -32,6 +32,7 @@ Challenge Num | Challenge title | Challenge link
 11 | Quick Sort | [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/code-challenges/quick-sort)
 12 | hashmap-repeated-word | [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/code-challenges/hashmap-repeated-word)
 13 | hashmap-tree-intersection | [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/code-challenges/hashmap-tree-intersection)
+14 | hashmap-tree-intersection | [Click here](https://github.com/oebitw/data-structures-and-algorithms/tree/main/javascript/code-challenges/hashmap-left-join)
 
 
 ---
